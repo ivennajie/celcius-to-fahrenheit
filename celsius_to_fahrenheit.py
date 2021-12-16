@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 
-import sys
-
-celsius = input("Enter degree in Celsius: ")
-try:
-	celsius = int(celsius)
-except ValueError:
-	print("Please enter a valid number!")
-	sys.exit(0)
-
+while True:
+	try:
+		celsius = int(input("Enter degree in Celsius: "))
+	except ValueError:
+		print("Please enter a valid number!")
+		continue
+	else:
+		break
+	
 def conv(c):
 
 	return (9/5*c+32)
