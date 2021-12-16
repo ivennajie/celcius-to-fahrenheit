@@ -1,6 +1,6 @@
 # celsius-to-fahrenheit
 
-I am making a Celcius to Fahrenheit converter. 
+I am making a Celsius to Fahrenheit converter. 
 
 It is a function to take the Celsius velue as an argument
 and return the corresponding Fahrenheit value.
