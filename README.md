@@ -1,8 +1,8 @@
 # celsius-to-fahrenheit
 
-I am making a Celsius to Fahrenheit converter. 
+The script is converting Celsius to Fahrenheit. 
 
-It is a function to take the Celsius velue as an argument
+A function will take the Celsius velue as an argument input
 and return the corresponding Fahrenheit value.
 
 Sample Input: 36
